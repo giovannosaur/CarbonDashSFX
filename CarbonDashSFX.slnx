@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CarbonDashSFX/CarbonDashSFX.vcxproj" Id="5bbd5c44-3110-4095-a8fd-0a72e9bee2b7" />
+</Solution>
